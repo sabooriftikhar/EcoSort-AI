@@ -1,0 +1,25 @@
+{
+  "final_training_accuracy": 0.9378827214241028,
+  "final_validation_accuracy": 0.9165323972702026,
+  "final_training_loss": 0.1921413242816925,
+  "final_validation_loss": 0.24702925980091095,
+  "epochs_completed": 8,
+  "image_size": [
+    160,
+    160
+  ],
+  "classes": [
+    "battery",
+    "biological",
+    "brown-glass",
+    "cardboard",
+    "clothes",
+    "green-glass",
+    "metal",
+    "paper",
+    "plastic",
+    "shoes",
+    "trash",
+    "white-glass"
+  ]
+}
